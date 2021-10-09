@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Prashik's Blogs"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my first post on my this website which is hosted by github pages.
